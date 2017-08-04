@@ -1,0 +1,27 @@
+/* CSS Document */
+.new a{text-decoration:none; color:#000000;
+background-image:url(button.jpg); display:block; width:135px; height:23px;
+background-position:-170px -72px;
+text-align:center;
+padding-top:10px;
+border-radius:18px;
+}
+
+.new a:link{
+text-decoration:none; color:#000000;
+
+}
+.new a:visited{
+text-decoration:none;
+
+}
+.new a:hover{
+background-image:url(button.jpg);
+background-position:-170px 83px;
+border-radius:18px;
+}
+.new a:active{
+background-image:url(button.jpg);
+background-position:-170px 83px;
+border-radius:18px;
+}
